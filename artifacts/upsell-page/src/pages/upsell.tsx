@@ -5,7 +5,7 @@ export function UpsellPage() {
     <div
       style={{
         minHeight: "100vh",
-        background: "linear-gradient(180deg, #f0f9ff 0%, #ffffff 40%, #f0fdf4 100%)",
+        background: "#ffffff",
         display: "flex",
         flexDirection: "column",
         alignItems: "center",
@@ -106,8 +106,8 @@ export function UpsellPage() {
             background: "#ffffff",
             borderRadius: "20px",
             padding: "36px 28px",
-            boxShadow: "0 4px 24px rgba(0,0,0,0.06), 0 1px 4px rgba(0,0,0,0.04)",
-            border: "1px solid rgba(0,0,0,0.05)",
+            boxShadow: "0 2px 16px rgba(0,0,0,0.07), 0 1px 4px rgba(0,0,0,0.04)",
+            border: "1px solid #e5e7eb",
           }}
         >
           <div
@@ -214,11 +214,11 @@ export function UpsellPage() {
           <div
             style={{
               textAlign: "center",
-              background: "linear-gradient(135deg, #f0fdf4, #ecfdf5)",
+              background: "#f9fafb",
               borderRadius: "16px",
               padding: "24px 20px",
               marginBottom: "24px",
-              border: "1px dashed #86efac",
+              border: "1px solid #e5e7eb",
             }}
           >
             <p

@@ -271,8 +271,9 @@ export function UpsellPage() {
           </div>
 
           <a
-            href="#"
-            onClick={(e) => e.preventDefault()}
+            href="https://pay.kiwify.com.br/pfCXZxF"
+            target="_blank"
+            rel="noopener noreferrer"
             style={{
               display: "block",
               width: "100%",

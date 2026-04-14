@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "p_kPv92hcLut2sN7vXZ5U"
+uri = "file://artifacts/upsell-page/netlify-deploy.tar.gz"
+type = "unspecified"
+title = "Arquivos para Netlify (netlify-deploy.tar.gz)"
